@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "generator.parent",
+      "type": "java.lang.String",
+      "description": "Description for generator.parent."
+    },
+    {
+      "name": "generator.entity",
+      "type": "java.lang.String",
+      "description": "Description for generator.entity."
+    }
+  ] }
